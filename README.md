@@ -1,4 +1,4 @@
-# Legacy Argent Rose solution
+# Legacy Argent Rose starting point
 
 No relevant mutants surviving.
 
